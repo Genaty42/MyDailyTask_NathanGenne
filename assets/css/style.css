@@ -1,0 +1,19 @@
+#contain{
+    display:flex;
+}
+#left_contain{
+    display:flex;
+    flex-direction: column;
+    margin-left: 2%;
+}
+#title{
+    margin-bottom: 5%;
+}
+#task_new{
+    margin-bottom: 5%;
+    width:20%;
+    height: 40px;
+}
+#right_contain{
+
+}
